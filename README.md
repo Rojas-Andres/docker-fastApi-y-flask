@@ -12,7 +12,7 @@ Ver la pagina web:
 http://localhost:5000/
 
 
-Subir a aws con docker swarm (Ubuntu)
+Subir a aws con docker swarm (Ubuntu Server 20.04 LTS (HVM), SSD Volume Type ) y escoger t2.medium vCpu(2) Memoria (GiB) 4 y colocar todo el trafico en los security groups
 
 - En cada maquina ejecutar los siguientes comandos 
     - sudo apt-get update
